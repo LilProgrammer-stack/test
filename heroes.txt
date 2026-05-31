@@ -2,3 +2,5 @@ batman
 superman 
 spiderman
 wolverine
+ScarletWitch
+Ironman
